@@ -9,6 +9,6 @@ They say age is just a number but a whole host of health issues come with aging.
 
 Data Set
 ----
-The  data comprises over fifty anonymized health characteristics linked to three age-related conditions. The goal is to predict whether a subject has or has not been diagnosed with one of these conditions -- a binary classification problem.
+The  data comprises over fifty anonymized health characteristics linked to three age-related conditions. The goal is to predict whether a subject has or has not been diagnosed with one of these conditions - a binary classification problem.
 
 ![image](https://github.com/TimRyall/Heath-Conditions-RF/assets/78301985/c2760a74-72f6-4877-b6cc-5db465128859)
